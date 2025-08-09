@@ -1,16 +1,13 @@
-## Hi there 👋
+# Notice: Temporary & Non-Professional GitHub Account
 
-<!--
-**marcus-normando/marcus-normando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub account is maintained for **temporary, experimental, and learning purposes only**.  
+It is not intended to serve as a representation of my professional portfolio, nor does it showcase my production-quality work.  
 
-Here are some ideas to get you started:
+The repositories you may find here are primarily:  
+- Experimental code snippets and prototypes  
+- Work-in-progress projects for testing ideas or tools  
+- Temporary storage for collaborative or short-term tasks  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For a complete view of my **professional software development work**, including production-grade projects and long-term contributions, please feel free to reach out to me directly or visit my dedicated professional GitHub account (available upon request).  
+
+Thank you for your understanding.
