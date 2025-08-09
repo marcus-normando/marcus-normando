@@ -6,8 +6,7 @@ It is not intended to serve as a representation of my professional portfolio, no
 The repositories you may find here are primarily:  
 - Experimental code snippets and prototypes  
 - Work-in-progress projects for testing ideas or tools  
-- Temporary storage for collaborative or short-term tasks  
+- Temporary storage for collaborative or contract-based projects
 
-For a complete view of my **professional software development work**, including production-grade projects and long-term contributions, please feel free to reach out to me directly or visit my dedicated professional GitHub account (available upon request).  
+Mainly worked in Company repositories, if you want to find out more about the projects I 've launched so far, feel free to reach out
 
-Thank you for your understanding.
